@@ -1,0 +1,961 @@
+@media (min-width: 270px) and (max-width: 351.98px) { 
+    .form_area_area textarea {
+        margin: 0px 7px;
+    }
+    .sub_main {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 99;
+        border-radius: 50px !important;
+    }
+    #subscribe_area button {
+        width: 39%;
+        right: 5%;
+    }
+    .footer_one img {
+        margin-left: 0px;
+    }
+
+    #banner_area {
+        width: 100%;
+        height: 550px;
+    }
+    #banner_area .slick-slide img {
+        display: block;
+        height: 550px;
+    }
+    .banner_col {
+        height: 550px;
+    }
+    .slick-dots {
+        top: 82% !important;
+    }
+.desnot{
+    display: inherit;
+    margin-top: 20px;
+}
+.desnot img{
+    height: 150px !important;
+}
+
+
+    .navbar {
+        height: 76px;
+    }
+    .navbar-collapse {
+        z-index: 9999999;
+        background: #000;
+        border-radius: 23px;
+    }
+    .nav-item{
+        text-align: center;
+    }
+    .nav-link {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .navbar-nav {
+        margin-top: 10px;
+        padding: 20px;
+        border-radius: 89px;
+    }
+    .navbar {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+    .hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: hidden;
+        opacity: 0;
+        transition: all .3s linear;
+    }
+    .active.hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: visible;
+        opacity: 1;
+        transition: all .3s linear;
+    }
+
+
+    .navbar .navbar-brand {
+        font-size: 23px;
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+    .banner_text h3 {
+        font-size: 25px;
+    }
+    .banner_bottom {
+        bottom: -4%;
+    }
+    .sesinput{
+        width: 100% !important;
+    }
+    .footer_three input {
+        width: 100% !important;
+    }
+    .slider_card_items img.arrow_img {
+        width: 21%;
+        right: 2%;
+        bottom: 10%;
+    }
+    .slider_card_items {
+        margin: 0px 10px;
+    }
+    .service_card p {
+        max-width: 80%;
+        margin: 0 auto;
+        padding-bottom: 80px;
+    }
+    .service_card_top {
+        margin-top: 30px;
+    }
+    .slider_card_items {
+        padding: 32px 84px 90px 39px;
+    }
+    .contact_img {
+        display: none !important;
+    }
+    #servise_area {
+        padding-top: 90px;
+    }
+    .service_title img {
+        top: -12%;
+        width: 52%;
+    }
+    #slider_card_area {
+        padding-top: 40px;
+    }
+    #about_area {
+        padding-top: 0px;
+    }
+    .form_area_input {
+        padding: 0px 0px;
+    }
+    .sub_left {
+        display: none;
+    }
+    .sub_dots {
+        right: 0%;
+        top: -21%;
+    }
+    #form_area {
+        padding-bottom: 150px;
+        padding-top: 30px;
+    }
+    #subscribe_area {
+        padding-bottom: 100px;
+    }
+    .contact_title p {
+        min-width: 100%;
+    }
+    #contact_area {
+        padding-top: 100px;
+    }
+    .contact_title h3 {
+        font-size: 30px;
+    }
+    .contact_title img {
+        top: 0%;
+        width: 54%;
+    }
+    .form_area_text h3 {
+        font-size: 35px;
+    }
+    .about_text h3 {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+    .form-group form{
+        text-align: center;
+    }
+    .sub_overlay {
+        
+        display: none;
+    }
+    .footer_end  {
+        display: flex !important;
+        justify-content: center;
+        margin-bottom: 26px;
+    }
+
+
+    .banner_text a {
+        padding: 5px 17px;
+    }
+    .form_area_input input {
+        margin: 0px 6px;
+        margin-bottom: 18px;
+    }
+
+
+}
+
+@media (min-width: 352px) and (max-width: 399.98px){
+    .footer_one img {
+        margin-left: 0px;
+    }
+    .form_area_input input {
+        margin: 0px 6px;
+        margin-bottom: 18px;
+    }
+    .form_area_area textarea {
+        width: 100%;
+        margin: 0px 10px;
+    }
+    #subscribe_area button {
+        width: 40%;
+        right: 6%;
+    }
+    .sub_main {
+        border-radius: 50px;
+    }
+
+    #banner_area {
+        width: 100%;
+        height: 550px;
+    }
+    #banner_area .slick-slide img {
+        display: block;
+        height: 550px;
+    }
+    .banner_col {
+        height: 550px;
+    }
+    .slick-dots {
+        top: 82% !important;
+    }
+.desnot{
+    display: inherit;
+    margin-top: 20px;
+}
+.desnot img{
+    height: 150px !important;
+}
+
+
+    .navbar {
+        height: 76px;
+    }
+    .navbar-collapse {
+        z-index: 9999999;
+        background: #000;
+        border-radius: 23px;
+    }
+    .nav-item{
+        text-align: center;
+    }
+    .nav-link {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .navbar-nav {
+        margin-top: 10px;
+        padding: 20px;
+        border-radius: 89px;
+    }
+    .navbar {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+    .hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: hidden;
+        opacity: 0;
+        transition: all .3s linear;
+    }
+    .active.hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: visible;
+        opacity: 1;
+        transition: all .3s linear;
+    }
+
+
+    .navbar .navbar-brand {
+        font-size: 23px;
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+    .banner_text h3 {
+        font-size: 25px;
+    }
+    .banner_bottom {
+        bottom: -4%;
+    }
+    .sesinput{
+        width: 100% !important;
+    }
+    .footer_three input {
+        width: 100% !important;
+    }
+    .slider_card_items img.arrow_img {
+        width: 21%;
+        right: 5%;
+        bottom: 1%;
+    }
+    .slider_card_items {
+        margin: 0px 10px;
+    }
+    .service_card p {
+        max-width: 80%;
+        margin: 0 auto;
+        padding-bottom: 80px;
+    }
+    .service_card_top {
+        margin-top: 30px;
+    }
+    .slider_card_items {
+        padding: 32px 84px 90px 39px;
+    }
+    .contact_img {
+        display: none !important;
+    }
+    #servise_area {
+        padding-top: 90px;
+    }
+    .service_title img {
+        top: -12%;
+        width: 52%;
+    }
+    #slider_card_area {
+        padding-top: 40px;
+    }
+    #about_area {
+        padding-top: 0px;
+    }
+    .form_area_input {
+        padding: 0px 0px;
+    }
+    .sub_left {
+        display: none;
+    }
+    .sub_dots {
+        right: 0%;
+        top: -21%;
+    }
+    #form_area {
+        padding-bottom: 150px;
+        padding-top: 30px;
+    }
+    #subscribe_area {
+        padding-bottom: 100px;
+    }
+    .contact_title p {
+        min-width: 100%;
+    }
+    #contact_area {
+        padding-top: 100px;
+    }
+    .contact_title h3 {
+        font-size: 30px;
+    }
+    .contact_title img {
+        top: 0%;
+        width: 54%;
+    }
+    .form_area_text h3 {
+        font-size: 35px;
+    }
+    .about_text h3 {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+    .form-group form{
+        text-align: center;
+    }
+    .sub_overlay {
+        
+        display: none;
+    }
+    .footer_end  {
+        display: flex !important;
+        justify-content: center;
+        margin-bottom: 26px;
+    }
+
+
+    .banner_text a {
+        padding: 5px 17px;
+    }
+
+
+}
+@media (min-width: 400px) and (max-width: 575.98px) {
+    .footer_one img {
+        margin-left: 0px;
+    }
+    .sub_main {
+        border-radius: 50px;
+    }
+    .form_area_input input {
+        margin: 0px 6px;
+        margin-bottom: 18px;
+    }
+    #banner_area {
+        width: 100%;
+        height: 550px;
+    }
+    #banner_area .slick-slide img {
+        display: block;
+        height: 550px;
+    }
+    .banner_col {
+        height: 550px;
+    }
+    .slick-dots {
+        top: 82% !important;
+    }
+.desnot{
+    display: inherit;
+    margin-top: 20px;
+}
+.desnot img{
+    height: 150px !important;
+}
+
+
+    .navbar {
+        height: 76px;
+    }
+    .navbar-collapse {
+        z-index: 9999999;
+        background: #000;
+        border-radius: 23px;
+    }
+    .nav-item{
+        text-align: center;
+    }
+    .nav-link {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .navbar-nav {
+        margin-top: 10px;
+        padding: 20px;
+        border-radius: 89px;
+    }
+    .navbar {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+    .hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: hidden;
+        opacity: 0;
+        transition: all .3s linear;
+    }
+    .active.hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: visible;
+        opacity: 1;
+        transition: all .3s linear;
+    }
+
+
+    .navbar .navbar-brand {
+        font-size: 23px;
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+    .banner_text h3 {
+        font-size: 25px;
+    }
+    .banner_bottom {
+        bottom: -4%;
+    }
+    .sesinput{
+        width: 100% !important;
+    }
+    .footer_three input {
+        width: 100% !important;
+    }
+    .slider_card_items img.arrow_img {
+        width: 18%;
+        right: 7%;
+        bottom: 1%;
+    }
+    .slider_card_items {
+        margin: 0px 10px;
+    }
+    .service_card p {
+        max-width: 80%;
+        margin: 0 auto;
+        padding-bottom: 80px;
+    }
+    .service_card_top {
+        margin-top: 30px;
+    }
+    .slider_card_items {
+        padding: 32px 23px 90px 23px;
+    }
+    .contact_img {
+        display: none !important;
+    }
+    #servise_area {
+        padding-top: 90px;
+    }
+    .service_title img {
+        top: -12%;
+        width: 52%;
+    }
+    #slider_card_area {
+        padding-top: 40px;
+    }
+    #about_area {
+        padding-top: 0px;
+    }
+    .form_area_input {
+        padding: 0px 0px;
+    }
+    .sub_left {
+        display: none;
+    }
+    .sub_dots {
+        right: 0%;
+        top: -21%;
+    }
+    #form_area {
+        padding-bottom: 150px;
+        padding-top: 30px;
+    }
+    #subscribe_area {
+        padding-bottom: 100px;
+    }
+    .contact_title p {
+        min-width: 100%;
+    }
+    #contact_area {
+        padding-top: 100px;
+    }
+    .contact_title h3 {
+        font-size: 30px;
+    }
+    .contact_title img {
+        top: 0%;
+        width: 54%;
+    }
+    .form_area_text h3 {
+        font-size: 35px;
+    }
+    .about_text h3 {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+    .form-group form{
+        text-align: center;
+    }
+    .sub_overlay {
+        
+        display: none;
+    }
+    .footer_end  {
+        display: flex !important;
+        justify-content: center;
+        margin-bottom: 26px;
+    }
+
+
+
+ }
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .footer_one img {
+        margin-left: -15px;
+    }
+    .form_area_input input {
+        margin: 0px 9px;
+        margin-bottom: 15px;
+    }
+
+    .desnot{
+        display: inherit;
+        margin-top: 20px;
+    }
+    .desnot img{
+        height: 150px !important;
+    }
+    #contact_area {
+        padding-bottom: 50px;
+    }
+    .navbar {
+        height: 76px;
+    }
+    .navbar-collapse {
+        z-index: 9999999;
+        background: #000;
+        border-radius: 23px;
+    }
+    .nav-item{
+        text-align: center;
+    }
+    .nav-link {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .navbar-nav {
+        margin-top: 10px;
+        padding: 20px;
+        border-radius: 89px;
+    }
+    .navbar {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+    .hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: hidden;
+        opacity: 0;
+        transition: all .3s linear;
+    }
+    .active.hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: visible;
+        opacity: 1;
+        transition: all .3s linear;
+    }
+
+
+
+
+    .banner_text h1 {
+        font-size: 62px;
+    }
+    .banner_text h3 {
+        font-size: 35px;
+    }
+    .banner_bottom {
+        bottom: -10%;
+    }
+    .sesinput{
+        width: 100% !important;
+    }
+    .footer_three input {
+        width: 100% !important;
+    }
+    .slider_card_items img.arrow_img {
+        width: 25%;
+        right: -5%;
+        bottom: 9%;
+    }
+    .slider_card_items {
+        margin: 0px 15px;
+    }
+    .service_card p {
+        max-width: 80%;
+        margin: 0 auto;
+        padding-bottom: 80px;
+    }
+    .service_card_top {
+        margin-top: 30px;
+    }
+    .slider_card_items {
+        padding: 32px 23px 90px 23px;
+    }
+    .contact_img {
+        display: none !important;
+    }
+    #servise_area {
+        padding-top: 159px;
+    }
+    .service_title img {
+        top: -12%;
+        width: 35%;
+    }
+    #slider_card_area {
+        padding-top: 100px;
+    }
+    #about_area {
+        padding-top: 0px;
+    }
+    .form_area_input {
+        padding: 0px 30px;
+    }
+    .about_text h3 {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+    .form-group form{
+        text-align: center;
+    }
+    .sub_overlay {
+        
+        display: none;
+    }
+    .footer_end  {
+        display: flex !important;
+        justify-content: center;
+        margin-bottom: 26px;
+    }
+
+
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .desnot{
+        display: inherit;
+        margin-top: 60px;
+    }
+    .desnot img {
+        height: 220px !important;
+    }
+    #contact_area {
+        padding-bottom: 50px;
+    }
+
+    .navbar {
+        height: 76px;
+    }
+    .navbar-collapse {
+        z-index: 9999999;
+        background: #000;
+        border-radius: 23px;
+    }
+    .nav-item{
+        text-align: center;
+    }
+    .nav-link {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .navbar-nav {
+        margin-top: 10px;
+        padding: 20px;
+        border-radius: 89px;
+    }
+    .navbar {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+    .hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: hidden;
+        opacity: 0;
+        transition: all .3s linear;
+    }
+    .active.hover_manu::after {
+        position: absolute;
+        bottom: -37px;
+        content: '';
+        width: 100%;
+        height: 6px;
+        border-radius: 5px 5px 0px 0px;
+        background: transparent;
+        left: 4%;
+        visibility: visible;
+        opacity: 1;
+        transition: all .3s linear;
+    }
+
+
+
+
+
+    .sub_overlay {
+        display: none;
+    }
+    .form-group form{
+        text-align: center;
+    }
+    .banner_bottom {
+        bottom: -17%;
+    }
+    .footer_three input {
+        width: 80%;
+    }
+    .slider_card_items img.arrow_img {
+        width: 25%;
+        right: -5%;
+        bottom: 9%;
+    }
+    .slider_card_items {
+        margin: 0px 10px;
+    }
+    .service_card p {
+        max-width: 80%;
+        margin: 0 auto;
+        padding-bottom: 80px;
+    }
+    .service_card_top {
+        margin-top: 30px;
+    }
+    .slider_card_items {
+        padding: 32px 23px 50px 23px;
+    }
+    .contact_img {
+        display: none;
+    }
+    #servise_area {
+        padding-top: 159px;
+    }
+    .service_title img {
+        top: -13%;
+    }
+    #slider_card_area {
+        padding-top: 100px;
+    }
+    #about_area {
+        padding-top: 0px;
+    }
+    .form_area_input {
+        padding: 0px 30px;
+    }
+    .footer_end  {
+        display: flex !important;
+        justify-content: center;
+        margin-bottom: 26px;
+    }
+    .sesinput{
+        width: 100% !important;
+    }
+    .footer_three input {
+        width: 100% !important;
+    }
+
+
+
+}
+
+@media (min-width: 992px) and (max-width: 999.98px) {
+    .banner_bottom {
+        bottom: -19%;
+    }
+    .footer_three input {
+        width: 80%;
+    }
+    .slider_card_items img.arrow_img {
+        width: 25%;
+        right: -5%;
+        bottom: 9%;
+    }
+    .slider_card_items {
+        margin: 0px 20px;
+    }
+
+
+ }
+
+@media (min-width: 1000px) and (max-width: 1199.98px) {
+    .banner_bottom {
+        bottom: -18%;
+    }
+    .slider_card_items {
+        margin: 0px 20px;
+    }
+    .slider_card_items img.arrow_img {
+        width: 25%;
+        right: -5%;
+        bottom: 9%;
+    }
+    .footer_three input {
+        width: 80%;
+    }
+
+ }
+
+@media (min-width: 1200px) and (max-width: 1400.98px) {
+    .banner_bottom {
+        bottom: -25%;
+    }
+
+
+
+
+ }
+
+@media (min-width: 1401px) and (max-width: 1500.98px) {
+
+    .slider_card_items img.arrow_img {
+        padding: 8px;
+        border-radius: 100px;
+        background: var(--button, linear-gradient(158deg, #1678EA 21.47%, #0E3869 100%));
+        width: 23%;
+        position: absolute;
+        right: 1%;
+        bottom: 2%;
+    }
+ }
+ @media (min-width: 1500px) { 
+
+    .slider_card_items img.arrow_img {
+        padding: 8px;
+        border-radius: 100px;
+        background: var(--button, linear-gradient(158deg, #1678EA 21.47%, #0E3869 100%));
+        width: 23%;
+        position: absolute;
+        right: 1%;
+        bottom: 2%;
+    }
+  }
